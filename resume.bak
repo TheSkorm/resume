@@ -1,0 +1,157 @@
+
+%__________________________________________________________________________
+% @brief    LaTeX2e Resume for Kamil K Wojcicki
+% @author   Kamil K Wojcicki
+% @url      http://linux.dsplabs.com.au/?p=54
+% @date     Decemebr 2007
+% @info     Based on Latex Resume Template by Chris Paciorek 
+%           http://www.biostat.harvard.edu/~paciorek/
+
+
+\documentclass[margin,line]{resume}
+\begin{document}
+\name{\Large Michael A Wheeler}
+\begin{resume}
+
+    % Contact Information
+    \section{\mysidestyle Contact\\Information}\vspace{2mm}
+
+    \begin{tabular}{@{} l @{\hspace{38mm}} r}
+   2/33 Card St                & +61 7 4819 9614           \\
+    Rockhampton          &  +61 4 3966 8012\\
+    QLD 4701, Australia & employment@michael-wheeler.org\\
+    \end{tabular}
+
+
+    % Research Interests
+    \section{\mysidestyle Interests}
+
+    Communications and Networks, TCP IP (v4/v6), Efficient Packet Routing, Network security analysis, Radio Communications
+
+
+    % Education
+    \section{\mysidestyle Education}
+
+    {\bf Tannum Sands State High School}, Tannum Sands, QLD , Australia \vspace{2mm}%
+    \begin{list1}
+    \item[] Grade 12 Studies
+    \vspace*{2mm}
+    \item[] English, Mathematics B, Physics, IPT, Graphics, 2008
+    \end{list1}
+    
+    {\bf Business, Information Technology Skills Center  }, Boyne Island, QLD , Australia \vspace{2mm}%
+    \begin{list1}
+    \item[]  Network Administration
+    \vspace*{2mm}
+    \item[]  Certificate I in Informations Technology , 2007; Certificate III in Informations Technology , 2008
+    \end{list1}
+
+    {\bf Self Study}%
+    \begin{list1}
+    \vspace*{2mm}
+    \item[]  Cisco Certified Network Associate
+    \end{list1}
+
+     \section{\mysidestyle Currently\\Studying}   
+    {\bf Central Queensland University}, Rockhampton, QLD , Australia \vspace{2mm}%
+    \begin{list1}
+    \item[] Bachelor Degree in Information Systems
+    \end{list1}
+    % Awards
+    \section{\mysidestyle Awards and Certificates} 
+
+2009 Course in General Safety Induction (Construction Industry) Blue Card, 2008 Certificate of Academic Excellence in Information Technology, 2006 Certificate of Academic Excellence in Information Technology , 2006 Excellence Award - Information Technology , 2006 Excellence Award - Mathematics x3 , 2006 Excellence Award - Music , 2006 Excellence Award - Business , 2006 Tour de Chaplain Participation , 2006 Human Powered Vehicle , 2005 The University of NSW Australasian Schools Computer Skills Competition Ð High Distinction , 2005 Mathematics Competition for the Westpac Awards Ð Distinction , 2004 The University of NSW Australasian Schools Computer Skills Competition Ð High Distinction , 2003 The University of NSW Australasian Schools Computer Skills Competition Ð Distinction , 2003 The University of NSW Australasian Schools Mathematics Assessment Ð Distinction , 2002 The University of NSW Australasian Schools Computer Skills Competition Ð High Distinction , Comalco Creative Comminutions Award For Green And Health School Competition Ð Created web site under guidance of Kit Herbert 
+
+
+  
+    % Professional Experience
+    \section{\mysidestyle Professional\\Experience}
+    {\bf Hays Recruitment}, Nexium Telecommunications / Ergon Energy  \vspace{2mm}\\\vspace{1mm}%
+        {\sl Network Systems Technician} \hfill {\bf February, 2010 -- Present}\\   
+             Details of Position:-
+                  \begin{list2}
+                          \vspace*{1mm}
+                          \item Monitor and perform maintenance to network equipment.
+                          \item Respond to faults and calls
+                          \item Plan maintenance and system upgrades
+                          \item Log incidents and contact customers.
+                          \item Monitor the security of the network and physical infrastructure for intrusions.
+                          \item Update documentation and procedures. 
+                          \item Ensure backups and automated jobs completed successfully 
+                          \end{list2}
+    {\bf Data \#3}, Boyne Smelters Limited, Rio Tinto Australia \vspace{2mm}\\\vspace{1mm}%
+    {\sl Communications Project Engineer} \hfill {\bf November, 2008 -- February 2010}\\
+    Details of Position:-
+    \begin{list2}
+        \vspace*{1mm}
+        \item  Upgrade and maintain network infrastructure at Boyne Smelters Limited. This includes installing, upgrading and configuring Cisco switches and routers for use in production environments. 
+\item  Update databases with new switch information. 
+\item  Setting up Microsoft, Linux and BSD servers. 
+\item  Setup and diagnose Windows workstations. 
+\item  Solve critical network and wireless control systems issues. 
+\item  Operate Symantec Ghost and Microsoft RIS. 
+\item  Arrange contractors for cable runs and expansion projects. 
+\item  Plan, manage and cost projects for network upgrades in process control and general office areas. 
+\item  Ensure security for process control devices and standard workstations, with virtual separation of networks VLANs) and patching of all devices and computers with latest security updates. 
+\item  Responsible for ensuring the uptime of all switches across site (over 200) and other sites including, Rio Tinto Yarwun Alumina Refinery and QAL offices. 
+\item  Actively take part in monthly safety meetings. 
+\item  Provide support to users using HP Open View Service Desk 
+\item  Gained useful experience in PLC 5 programming and use of SCADA systems. Obtained an understanding of Honeywell's Plantscape and Experion systems, and the use of RS Logix and OPC.
+\item  Learnt invaluable safety processes and procedures for working in an industrial enviroment. Regular use of safety glasses, monogogles and respirator, along with safety with hot metals, highly magetised areas and chemicals.
+    \end{list2}
+    {\bf Boyne Smelters Limited}, Boyne Island, Australia \vspace{2mm}\\\vspace{1mm}%
+    {\sl Network Administrator} \hfill {\bf February, 2007 -- November, 2008} \\
+Took part in work experience at Boyne Smelters Limited for network administration under the supervision of Brian Carroll. This includes maintaining and upgrading the site's wired and wireless network infrastructure. Assisted in radio roll out project.
+
+    {\bf Data \#3}, Boyne Smelters Limited, Rio Tinto Australia \vspace{2mm}\\\vspace{1mm}%
+    {\sl Network Administrator} \hfill {\bf December, 2007  -- January, 2008, April, 2008 -- April, 2008, September, 2008 -- October, 2008 }\\
+    Details of Position:-
+    \begin{list2}
+        \vspace*{1mm}
+\item Upgraded and maintained network infrastructure at Boyne Smelters Limited. 
+\item This included installing, upgrading and configuring Cisco switches for use in production environments. 
+\item Updated databases with new switch information and setting up servers. 
+\item Solved critical network problems and wireless control systems issues. 
+\item Arranged contractors for cable runs and expansion projects. 
+\end{list2}
+
+    {\bf Business Information Technology Center}, Boyne Smelters Limited, TSSHS Australia \vspace{2mm}\\\vspace{1mm}%
+    {\sl Information Technology Specialist} \hfill {\bf April, 2006 -- November 2007}\\
+    Details of Position:-
+    \begin{list2}
+        \vspace*{1mm}
+\item Studied for Certifcate I and III while in a work enviroment, following all HSE standards. 
+\item Setup network and workstations for the BITS Centre. 
+\item Coded login and backup scripts for the system, allowing easy login, and file redunacny. 
+\end{list2}
+
+
+    % Computer Skills
+    \section{\mysidestyle Computer\\Skills} 
+
+    \begin{list2}
+	\item Cisco Servers:  Cisco Works, Cisco ACS, Cisco WCS
+	\item Cisco Devices and Software: Switches (2940, 2950, 2960, 3500, 3560, 3750,4507,6509), Routers (2651), Access Points (300,1131,1231,1242), WLAN Controller, ASA / ASDM, Cisco VPN Client
+        \item Support and Ticketing:  OS Ticket, HP OpenView Service Desk, VisualQSM, MediaWiki, DokuWiki, TWiki
+        \item Programming: Python, C/C++, SQL (MSSQL, MySQL, sqlite), Perl, Visual Basic, Linux shell scripting
+        \item OS: DOS,Windows (Windows 3.1 - Windows 7 \ensuremath{\sim} Server 08, 03), OS X, Linux (Gentoo, Debian, Ubuntu, SUSE, RHEL), BSD (FreeBSD)
+        \item Monitoring: SNMPc, Cisco Works, Zenoss, Cacti, RRDtool, Netcool CIC, IBM Tivoli, NFSen 
+        \item Automation: RS Logix, RSMac, RS Linx, Honeywell Experion 
+    \end{list2}
+
+
+    
+    % Referees
+    \section{\mysidestyle Referees} 
+
+    \begin{list2}
+    \item {\sl Brian Carroll} (Superintendent IS and T Networks and Telecommunications APAC East - Rio Tinto)- 07 3029 2489
+    \item {\sl Drew Ward} (Communications Engineer - Data \#3) - 07 4973 0101
+    \end{list2}
+
+
+\end{resume}
+\end{document}
+
+
+
